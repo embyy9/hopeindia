@@ -14,11 +14,11 @@ html {
 /*upper border part*/
 header{
   font: 20px/1.5 'Raleway'; 
-  background: #00a8cc;
+  background: #808080;
   color: #ffffff;  
   padding-top: 30px; 
   min-height: 55px; 
-  border-bottom: #00a8cc 6px solid;
+  border-bottom: #808080 6px solid;
 }
 
 /*home about contact us*/

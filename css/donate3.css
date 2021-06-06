@@ -14,11 +14,11 @@ html {
 /*upper border part*/
 header{
   font: 25px/1.5 'Raleway'; /*go corona size*/
-  background: #00a8cc;
+  background: #808080;
   color: #ffffff;  /*go corona*/
   padding-top: 30px; /*upper border upper height*/
   height: 100px; /*upper border bottom height*/
-  border-bottom: #00a8cc 6px solid;
+  border-bottom: #808080 6px solid;
 }
 
 /*home about contact us*/
